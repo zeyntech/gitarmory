@@ -18,10 +18,12 @@
 1. Commit the staged files \
   ```git commit -m "message" ```\
       OR \
-  ```git commit -m "```
-  ```multi```
-  ```line```
-  ```message"```
+  ```
+  git commit -m "
+  multi
+  line
+  message"
+  ```
 
 
 
