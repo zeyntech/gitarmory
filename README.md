@@ -16,13 +16,13 @@
 1. Add the modified files into the staging area \
   ```git add path/to/file```
 1. Commit the staged files \
-  ```git commit -m "message" ```
+  ```git commit -m "message" ```\
 		OR
   ```git commit -m "
-multi
-line
-message"
-```
+      multi
+      line
+      message"
+  ```
 
 
 
