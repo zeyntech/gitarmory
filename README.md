@@ -17,12 +17,11 @@
   ```git add path/to/file```
 1. Commit the staged files \
   ```git commit -m "message" ```\
-		OR \
-  ```git commit -m "
-      multi
-      line
-      message"
-  ```
+      OR \
+  ```git commit -m "```
+  ```multi```
+  ```line```
+  ```message"```
 
 
 
